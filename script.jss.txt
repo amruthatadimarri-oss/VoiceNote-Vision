@@ -1,0 +1,21 @@
+function openSignup(){
+
+alert("Sign Up page will open here");
+
+}
+
+function startLearning(){
+
+alert("Welcome to VoiceNote Vision!");
+
+}
+
+function scrollFeatures(){
+
+document.getElementById("features").scrollIntoView({
+
+behavior:"smooth"
+
+});
+
+}
